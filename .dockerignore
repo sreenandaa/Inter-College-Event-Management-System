@@ -1,0 +1,10 @@
+target/
+.git
+.gitignore
+.idea
+*.iml
+*.log
+data/*.tmp
+run.bat
+run.ps1
+README.md
