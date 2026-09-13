@@ -1,0 +1,67 @@
+[ {
+  "id" : "u-student-1",
+  "fullName" : "Sreenanda Nair",
+  "username" : "sreenanda",
+  "passwordHash" : "Z1KhYB3z6hn6UINbubeaK4bdi7dV8hdW035SzPkyXv0=",
+  "salt" : "020gxN5rn1GWr3S4e8lQoQ==",
+  "college" : "College of Engineering Trivandrum (CET)",
+  "role" : "STUDENT",
+  "location" : "Thiruvananthapuram",
+  "interests" : [ "Technical", "Makeathon", "Workshop", "Quiz" ],
+  "createdAt" : "2026-09-13T13:15:32.023971"
+}, {
+  "id" : "u-coord-1",
+  "fullName" : "Arjun Varma",
+  "username" : "arjun_cet",
+  "passwordHash" : "V09UfWRxIVuMhBSJP4J3M2OEw1/F58mNSdNilt5zQKc=",
+  "salt" : "ld5MfATwQ7o0XwGqqAxZtw==",
+  "college" : "College of Engineering Trivandrum (CET)",
+  "role" : "COORDINATOR",
+  "location" : "Thiruvananthapuram",
+  "interests" : [ ],
+  "createdAt" : "2026-09-13T13:15:32.0245084"
+}, {
+  "id" : "u-coord-2",
+  "fullName" : "Sneha Menon",
+  "username" : "sneha_mec",
+  "passwordHash" : "xxnO1t660siYd129zCVC31nt0dD88y1lSzC6RHT4U84=",
+  "salt" : "TCjzcHmfg5TkoL8P6C2GUg==",
+  "college" : "Model Engineering College (MEC)",
+  "role" : "COORDINATOR",
+  "location" : "Kochi",
+  "interests" : [ ],
+  "createdAt" : "2026-09-13T13:15:32.0245084"
+}, {
+  "id" : "u-coord-3",
+  "fullName" : "Rahul Krishnan",
+  "username" : "rahul_mbcet",
+  "passwordHash" : "zW15crvriNGS+QFtJReN6vqYun0yyQsElYv7F9tZWY0=",
+  "salt" : "juTL3otpfM6AmuxUqRXyhQ==",
+  "college" : "Mar Baselios College of Engineering and Technology (MBCET)",
+  "role" : "COORDINATOR",
+  "location" : "Thiruvananthapuram",
+  "interests" : [ ],
+  "createdAt" : "2026-09-13T13:15:32.0245084"
+}, {
+  "id" : "u-coord-4",
+  "fullName" : "Ananya Pillai",
+  "username" : "ananya_gec",
+  "passwordHash" : "3IcQBntOu/3sZRUbSaVYQzeHjICjBWVLGdhVTwRLlQ8=",
+  "salt" : "jM4KND0lM59tZiHXsiVVYw==",
+  "college" : "Government Engineering College (GEC)",
+  "role" : "COORDINATOR",
+  "location" : "Thrissur",
+  "interests" : [ ],
+  "createdAt" : "2026-09-13T13:15:32.0245084"
+}, {
+  "id" : "u-coord-5",
+  "fullName" : "Karthik Joseph",
+  "username" : "karthik_rset",
+  "passwordHash" : "MWV4QGQmOibZgg6VktJxGek/5+VuIkgQY+lXDO58RXI=",
+  "salt" : "Qfs27V2F6I+DnfSYqsOLcg==",
+  "college" : "Rajagiri School of Engineering & Technology (RSET)",
+  "role" : "COORDINATOR",
+  "location" : "Kochi",
+  "interests" : [ ],
+  "createdAt" : "2026-09-13T13:15:32.0245084"
+} ]

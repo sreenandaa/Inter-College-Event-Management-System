@@ -1,0 +1,37 @@
+[ {
+  "id" : "notif-1",
+  "userId" : "ALL",
+  "title" : "HackKochi 2026 is happening in 2 days!",
+  "message" : "Check out the 36-hour national makeathon at Model Engineering College.",
+  "type" : "URGENCY",
+  "relatedEventId" : "evt-1",
+  "read" : false,
+  "createdAt" : "2026-09-13T13:15:32.0299788"
+}, {
+  "id" : "notif-2",
+  "userId" : "ALL",
+  "title" : "Drishti AI & Deep Tech Symposium is today!",
+  "message" : "Starts at 2:30 PM at Diamond Jubilee Hall, CET.",
+  "type" : "URGENCY",
+  "relatedEventId" : "evt-2",
+  "read" : false,
+  "createdAt" : "2026-09-13T13:15:32.0299788"
+}, {
+  "id" : "notif-3",
+  "userId" : "u-student-1",
+  "title" : "Autonomous Drone Workshop matches your interests!",
+  "message" : "Hands-on workshop at MBCET Nalanchira matches your Technical & Workshop preferences.",
+  "type" : "INTEREST_MATCH",
+  "relatedEventId" : "evt-3",
+  "read" : false,
+  "createdAt" : "2026-09-13T13:15:32.0299788"
+}, {
+  "id" : "notif-4",
+  "userId" : "u-student-1",
+  "title" : "New event added near your location in Thiruvananthapuram",
+  "message" : "The Cryptic Campus Quest Treasure Hunt is now open for registration at CET.",
+  "type" : "LOCATION_MATCH",
+  "relatedEventId" : "evt-4",
+  "read" : false,
+  "createdAt" : "2026-09-13T13:15:32.0299788"
+} ]
